@@ -1,0 +1,8 @@
+//van benne @, utána pont, végén legalább két kisbetű
+String mail = "cirkuszzebra@citromail.hu"; 
+String neptun = "xyz@gamma.ttk.pte.hu";
+String szamos = "me.1234@zebra.com";
+String rossz = ".@.";
+Pattern hf = Pattern.compile("[0-9a-zA-Z][0-9a-zA-Z]+@[a-zA-Z]*[mail]*\\.[a-z][a-z]+");
+Matcher mhf = hf.matcher(rossz);
+System.out.println(mhf.find());

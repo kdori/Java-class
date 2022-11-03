@@ -1,0 +1,14 @@
+ 	//Challenge 01
+	int year = 1900;
+	if((year%4==0 && year%100!=0) || year%400==0)
+            System.out.println("Ez az év szökőév.");
+        else
+            System.out.println("Ez az év nem szökőév.");
+        //Challenge 02
+        int elso_oldal = 5;
+        int masodik_oldal = 6;
+        int harmadik_oldal = 10;
+        if ((elso_oldal + masodik_oldal >= harmadik_oldal) && (masodik_oldal + harmadik_oldal >= elso_oldal) && (elso_oldal + harmadik_oldal >= masodik_oldal))
+            System.out.println("A háromszög megszerkeszthető!");
+        else
+            System.out.println("A háromszög nem szerkeszthető meg!");

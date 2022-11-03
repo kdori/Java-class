@@ -1,0 +1,14 @@
+String text = "ablakzsiráf";
+text = text.toLowerCase();
+text = text.replace(" ", "");
+text = text.replace(".", "");
+boolean palindrom = false;
+System.out.println(text.charAt(0));
+for (int i = 0; i < text.length(); i++){ 
+     if (text.charAt(i) == text.charAt(text.length()-1-i)) {
+            palindrom = true;
+            }
+      else
+           break;
+        }
+System.out.println(palindrom ? "Ez egy palindrom." : "Ez nem egy palindrom.");

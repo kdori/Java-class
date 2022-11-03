@@ -1,0 +1,15 @@
+int alap = 3;
+int kitevo = -3;
+double hatv = 1;
+boolean negative = false;
+if (kitevo<0) {
+   kitevo *=-1;
+   negative = true;
+   }
+ for (int i = 1; i <= kitevo; i++) {
+   hatv*=alap;
+   }
+if (negative) {
+   hatv= 1 / hatv; 
+   }
+System.out.println(hatv);

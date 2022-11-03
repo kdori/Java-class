@@ -1,0 +1,21 @@
+ void incrementDay(int n){
+        for (int i = 0; i < n; i++) {
+            day += 1;
+            if(isDayValid()){
+                System.out.println(year + " " + month + " " + day + " ");
+            }
+            else{
+                day -=1;
+                month +=1;
+                if (isMonthValid()){
+                    day = 1; 
+                }
+                else{
+                    month =1;
+                    year +=1;
+                    day = 1; 
+                }
+                System.out.println(year + " " + month + " " + day + " ");
+            }
+        }
+    }
