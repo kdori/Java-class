@@ -1,0 +1,212 @@
+Column1	Column2	Column3	Column4	Column5	Column6	Column7	Column8	Column9
+Labels	tag_1	tag_2	tag_3	tags_4	effects_1	effects_2		
+Alcohol	food-drink				fizz	beer fizz	wine	
+Aerospace engineering	smoke - dust	fire	overlays					
+Aircraft	sky	smoke - dust	weather		sky(1)			
+Airplane	sky	smoke - dust	weather		sky(1)			
+Asphalt	path animator				animator			
+Aquarium	animals							
+Aviation	sky	smoke - dust	weather					
+Baby	celebration				golden dust	bubbles		
+Bag								
+Bar	food-drink							
+Balance								
+Balloon	sky	sky animation	parallax		sky(1)			
+Bathing	path animator							
+Beach	sky animation	path animator	sky		animator	waving water		
+Beard	path animator	parallax						
+Bench								
+Bird	animals							
+Boat	path animator							
+Boxer(dog)	parallax	animals						
+Branch	plants	animals						
+Brick								
+Bridge	path animator							
+Building	parallax	sky	sky animation					
+Bull	animals							
+Bumper	light	smoke - dust						
+Butterfly	animals	plants						
+Cake	food-drink				steam	coffe swirl		
+Campfire	fire	smoke - dust						
+Capucciono	food-drink				steam	coffe swirl		
+Car	light	smoke - dust	parallax					
+Castle	parallax							
+Cat	parallax							
+Cattle	parallax	animals	plants					
+Cave	light							
+Centerpiece	parallax	fire	animals		coin spin			
+Chair								
+Cliff	parallax	path animator	sky animation					
+Clock								
+Coffee	food-drink				steam	coffe swirl		
+Competition								
+Computer								
+Concert	sound				sound effect			
+Cookware and bakeware	food-drink	fire			steam			
+Cool								
+Couch								
+Countertop	things	parallax						
+Crochet	light							
+Crowd								
+Cuisine	food-drink	fire						
+Cup	food-drink							
+Curtain	fire	path animator						
+Cushion								
+Cutlery	food-drink							
+Dance	sound							
+Denim	parallax							
+Desert	path animator							
+Desk	things							
+Dog	parallax							
+Dress	parallax							
+Dune	path animator							
+Ear	parallax							
+Event					fireworks			
+Eyelash	parallax	path animator						
+Farm	animals				windmill			
+Fiction								
+Field	sky	sky animation	parallax	animals				
+Fire	fire	smoke - dust			animator	smoke		
+Flag	path animator				animator			
+Flesh								
+Flower	animals				humminbird			
+Flowerpot	animals							
+Fog	smoke - dust							
+Food	food-drink							
+Foot	parallax							
+Forest	plants	animals	parallax		fireflies			
+Fruit	plants	animals						
+Fun								
+Garden	plants	animals						
+Glacier	weather				snow			
+Glasses	parallax							
+Goggles	parallax							
+Hair	parallax				animator			
+Handbag								
+Hand	parallax							
+Handrail								
+Hat	parallax							
+Helmet	parallax							
+Herd	animals							
+Horse	animals							
+Icing	food-drink							
+Infrastructure								
+Insect	animals	plants						
+Jacket	parallax							
+Jeans	parallax							
+Jewellery	light	things			star			
+Jungle	plants	animals			tree	hummingbird		
+Juice	food-drink							
+Knitting	light							
+Lake	path animator	plants	animals		waving water	animator		
+Laugh	parallax							
+Leather								
+Leisure	parallax							
+Lighthouse	light	sky	sky animation					
+Lightning	light	weather						
+Lipstick	parallax							
+Love	parallax				heart ballons			
+Metal	light							
+Mobile phone					glitch			
+Model	parallax							
+Monochrome	overlays				old look	glitch		
+Monument	parallax	sky animation	sky					
+Motorcycle	fire	smoke - dust	parallax		animator	fire		
+Mountain	parallax	path animator	sky animation		birds	rainbow		
+Moustache	parallax							
+Mouth	parallax							
+Muscle	parallax							
+Musical instrument	sound				sound effects			
+Nail	animals	parallax						
+Nebula	sky animation	sky						
+Necklace	light				star			
+Neon	light							
+Net								
+Outwear	parallax							
+Palace	parallax							
+Paper								
+Pattern	path animator							
+Person	parallax							
+Pet	parallax	animals	plants					
+Petal	plants	animals						
+Petal								
+Pier	path animator	parallax	animals					
+Pillow								
+Plant	plants	animals						
+Pocket								
+Pop music	sound				sound effect			
+Porcelain					animator			
+Poster								
+Prairie	sky	sky animation	parallax	animals	windmill			
+Product	parallax							
+Race								
+Racing								
+Rainbow	sky	sky animation						
+Reef	path animator	animals						
+Ring	light				twinkle			
+River	path animator				animator	waving water		
+Road	path animator				animator			
+Rock	parallax	path animator	sky animation					
+Roof	path animator							
+Room								
+Ruins	parallax				glitch	old look		
+Running								
+Sand	path animator	smoke - dust			animator			
+Saucer	food-drink							
+Scarf	parallax							
+Screenshot								
+Selfie	parallax							
+Shelf								
+Shelf confidence								
+Shoe	parallax							
+Shorts	parallax							
+Singer	parallax	sound			sound effect			
+Sitting	parallax							
+Skateboard	sport	parallax						
+Skateborader	sport	parallax			skatebord			
+Skin	parallax	path animator						
+Sky	sky	sky animation			animator	seagull	cloud	airballon
+Skyline	sky	sky animation			birds	seagull	airballon	
+Skyscraper	sky	sky animation			animator			
+Sleep	parallax							
+Smile	parallax				bubbles			
+Soccer	sport				fireworks			
+Song	sound							
+Space	sky animation	sky			animator			
+Sports	sport				fireworks			
+Stadium	sport				fireworks			
+Standing	parallax							
+Star	sky animation	sky	light		star			
+Statue	parallax	sky	sky animation					
+Storm	weather	light						
+Strap								
+Sunglasses	parallax	light			star			
+Sunset	sky animation	light	sky		sun rays			
+Supper	food-drink							
+Swimming	path animator							
+Swimwear	parallax	path animator						
+Tableware	things							
+Team								
+Television	overlays				old look	glitch		
+Textile								
+Thing								
+Tire	path animator							
+Toe								
+Tower	parallax	sky	sky animation					
+Toy								
+Track								
+Train	path animator	smoke - dust	fire					
+Trunk								
+Twig	plants	animals						
+Umbrella	weather							
+Underwater	animals	path animator			goldfish	jellyfish		
+Vacation	parallax							
+Vegetable	food-drink	plants	animals					
+Vehicle	smoke - dust	fire	parallax					
+Wall								
+Waterfall	path animator	plants	animals					
+Wheel	path animator	smoke - dust						
+Windshield								
+Wine	food-drink	path animator	parallax					
+Wing	overlays	animals						
+Wool								
