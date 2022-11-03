@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Lisztek</title>
+        <meta charset="UTF-8">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script>
+            function changeKedv(){
+                var beNev = "kukoricaliszt";
+                var kedv = 0.15;
+                var task="changeKedv";
+                //json
+                var request = {"task":task,"beNev":beNev,"kedv":kedv};
+                $.ajax({
+                    url:"contr",
+                    type: "POST",
+                    data: request,
+                    success: function(rd){
+                        alert(rd);
+                    },
+                    error: function(){
+                        alert(hiba);
+                    }
+                });
+            }
+        </script>
+    </head>
+    <body>
+        <div>Gluténmentes lisztek</div>
+        <table border ="1">
+            <tr>
+                <th>Név</th><th>Átlagár</th><th>Kedvezmény</th><th>Aktuális ár</th>
+            </tr>
+            <tr>
+                <td> </td><td> </td><td> </td><td> </td>  
+            </tr>
+            <tr>
+                <td> </td><td> </td><td> </td><td> </td>
+            </tr>
+            <tr>
+                <td> </td><td> </td><td> </td><td> </td>
+            </tr>
+        </table>
+    </body>
+</html>
